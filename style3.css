@@ -1,0 +1,72 @@
+
+h1{
+height: 30px;
+font-size: 30px;
+border: 10;
+border-style: solid;
+border-color: black;
+text-align: center;
+}
+
+
+div#background {
+    width: 1900px;
+    height: 1200px;
+    background-image: url('https://i.imgur.com/AN34zBt.png?6');
+    position: absolute;
+    border: 16px ;
+    margin: 0px;
+    padding: 40px;
+    border-style: solid;
+    border-color: black;
+
+  
+   
+} 
+
+div#spaceship {
+    width: 50px;
+    height: 50px;
+    background-image: url('https://i.imgur.com/U7hjJbr.png');
+    position: absolute;
+    left: 1000px;
+    top: 1000px; 
+      
+}
+
+div#missiles {
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+}
+
+div.missile1 {
+    width: 10px;
+    height: 28px;
+    background-image: url('https://i.imgur.com/1zaApMz.png');
+    position: absolute;
+}
+
+div#Aliens {
+    width: 1200px;
+    height: 800px;
+    position: absolute;
+}
+
+div.alien {
+    width: 50px;
+    height: 50px;
+    background-image: url('https://i.imgur.com/eXNvbPu.png');
+    position: absolute;
+}
+
+#score{
+  font-size: 30px;
+  text-align: center;
+
+
+}
+
+
+
+
